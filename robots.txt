@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tania-ajab.github.io/portfolio/sitemap.xml
+Sitemap: https://tania-ajab.github.io/Portfolio/sitemap.xml
